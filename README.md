@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Khonsu!
 - 👀 I’m interested in JavaScript, HTML, CSS, C#, C++.
 - 🌱 I’m currently learning C# and C++.
-- 📫 Here's my email: contactsyncinus@gmail.com
